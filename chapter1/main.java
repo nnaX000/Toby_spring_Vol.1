@@ -1,3 +1,5 @@
+import java.sql.SQLException;
+
 public class main{
     public static void main(String[] arg) throws ClassNotFoundException,SQLException{
     UserDao dao=new UserDao();

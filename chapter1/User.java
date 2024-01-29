@@ -1,5 +1,7 @@
-public class User{
-    String id;
+
+public class User {
+	
+	String id;
     String name;
     String password;
 
@@ -26,4 +28,5 @@ public class User{
     public void setPassword(String password){
         this.password=password;
     }
+
 }
